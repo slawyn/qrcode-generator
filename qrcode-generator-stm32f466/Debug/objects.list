@@ -1,0 +1,4 @@
+"Src/heap.o"
+"Src/main.o"
+"Src/qrcode.o"
+"Startup/startup_stm32f446retx.o"
